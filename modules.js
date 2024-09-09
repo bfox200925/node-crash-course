@@ -1,10 +1,10 @@
-//const people = require('./people');
+const people = require('./people');
 
 
-//const data = require('./people');
+const data = require('./people');
 
 
-//console.log(data.people, data. ages);
+console.log(data.people, data. ages);
 
 const {people, ages } = require('./people');
 
